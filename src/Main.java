@@ -5,6 +5,9 @@ public class Main {
         int a=scan.nextInt();
         int b=scan.nextInt();
         Solution sol=new Solution();
-        System.out.println(sol.solution(a,b));
+        int[]answer=sol.solution(a,b);
+        for(int i=0; i<answer.length; i++){
+            System.out.println(answer[i]+",");
+        }
     }
 }
