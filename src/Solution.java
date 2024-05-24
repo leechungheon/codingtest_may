@@ -1,23 +1,7 @@
 class Solution {
-    public int solution(int[] sides) {
-        int answer = 0;
-        //주어진 변이 가장 큰 변일 때
-        if(sides[0]>=sides[1]){
-            for(int i=1; i<sides[0]; i++){
-                if(i+sides[1]>sides[0])answer++;
-            }
-        }else{
-            for(int i=1; i<sides[1]; i++){
-                if(i+sides[0]>sides[1])answer++;
-            }
-        }
-        //추가된 변이 가장 큰 변일 때
-        int large=0;
-        if(sides[0]>=sides[1])large=sides[0];
-        else {large=sides[1];}
-        for(int i=large; i<sides[0]+sides[1]; i++){
-            answer++;
-        }
+    public long solution(int a, int b, int[] g, int[] s, int[] w, int[] t) {
+        long answer = -1;
+        //시간순대로 오름차순 정렬 후, 운반 완료되는 w[t] 시점에서 시간 구하기
         return answer;
     }
 }
