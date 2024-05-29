@@ -1,18 +1,20 @@
-import java.util.Scanner;
-public class Main {
-    public static void main(String[] args) {
-        Scanner scan=new Scanner(System.in);
-        Solution sol=new Solution();
-        int[][] wires = {
-                {1, 3},
-                {2, 3},
-                {3, 4},
-                {4, 5},
-                {4, 6},
-                {4, 7},
-                {7, 8},
-                {7, 9}
-        };
-        System.out.println(sol.solution(9,wires));
+import javax.swing.*;
+import java.awt.event.*;
+class MyFrame extends JFrame {
+    private JButton button;
+    private JLabel label;
+    public MyFrame() {
+        this.setSize(300, 200);
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setTitle("이벤트 예제");
+        JPanel panel = new JPanel();
+        button = new JButton("버튼을 누르시오");
+        label = new JLabel("아직 버튼이 눌려지지 않았습니다");
+        button.addActionListener(new MyListener());
+        panel.add(button);
+        panel.add(label);
+        this.add(panel);
+
+        this.setVisible(true);
     }
 }
