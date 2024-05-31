@@ -1,9 +1,10 @@
 import javax.swing.*;
 //JFrame을 새로이 구현한다.
 class MyFrame extends JFrame {
+    //JFrame은 java swing에서 GUI 창을 만드는데 사용
     private JButton button;
     private JLabel label;
-    public MyFrame() {
+    public MyFrame() {//JFrame의 기능을 확장하고 사용자 정의 기능을 추가 -> 서브클래스/생성자
         this.setSize(300, 200);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setTitle("이벤트 예제");
@@ -17,6 +18,6 @@ class MyFrame extends JFrame {
         panel.add(label);
         this.add(panel);
 
-        this.setVisible(true);
+        this.setVisible(true);//프레임이 화면에 보이도록 설정.
     }
 }
