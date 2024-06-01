@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a0d62cb3-8b33-4644-ad99-d744b460f60a" name="변경" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ActionEventTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimplePairTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyListener.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,8 @@
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.ActionEventTest1.executor": "Run",
-    "애플리케이션.Main.executor": "Run"
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.SimplePairTest.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
@@ -109,7 +111,8 @@
       <workItem from="1716987932371" duration="26000" />
       <workItem from="1717000252932" duration="1761000" />
       <workItem from="1717045127610" duration="1560000" />
-      <workItem from="1717079288510" duration="2463000" />
+      <workItem from="1717079288510" duration="4223000" />
+      <workItem from="1717247028615" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <option name="closed" value="true" />
@@ -247,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717147521754</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="first">
+      <option name="closed" value="true" />
+      <created>1717148973429</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717148973429</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
