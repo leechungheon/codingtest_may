@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d62cb3-8b33-4644-ad99-d744b460f60a" name="변경" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/KeyPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Puzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RockPaperScissor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindDupplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetTest1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +65,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/leech/IdeaProjects/codingtest_may/src/Main.java",
-    "project.structure.last.edited": "프로젝트",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "settings.sync",
@@ -69,9 +73,17 @@
     "애플리케이션.ActionEventTest1.executor": "Run",
     "애플리케이션.FindDupplication.executor": "Run",
     "애플리케이션.GenericMethodTest.executor": "Run",
+    "애플리케이션.KeyPad.executor": "Run",
     "애플리케이션.LinkedListTest.executor": "Run",
     "애플리케이션.Main.executor": "Run",
+    "애플리케이션.MapTest.executor": "Run",
     "애플리케이션.MyArrayAlgTest.executor": "Run",
+    "애플리케이션.PriorityQueueTest.executor": "Run",
+    "애플리케이션.Puzzle.executor": "Run",
+    "애플리케이션.QueueTest.executor": "Run",
+    "애플리케이션.RockPaperScissor.executor": "Run",
+    "애플리케이션.Search.executor": "Run",
+    "애플리케이션.SetTest1.executor": "Run",
     "애플리케이션.SimplePairTest.executor": "Run",
     "애플리케이션.VectorTest.executor": "Run"
   }
@@ -116,7 +128,10 @@
       <workItem from="1717045127610" duration="1560000" />
       <workItem from="1717079288510" duration="4223000" />
       <workItem from="1717247028615" duration="3061000" />
-      <workItem from="1717311815825" duration="2106000" />
+      <workItem from="1717311815825" duration="5449000" />
+      <workItem from="1717498753798" duration="7000" />
+      <workItem from="1717498801839" duration="74000" />
+      <workItem from="1717508745568" duration="1655000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <option name="closed" value="true" />
@@ -294,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717313788074</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="first">
+      <option name="closed" value="true" />
+      <created>1717314277093</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717314277093</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
