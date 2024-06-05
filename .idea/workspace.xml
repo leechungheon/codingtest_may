@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d62cb3-8b33-4644-ad99-d744b460f60a" name="변경" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/MouseEventTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFrameTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFrame_mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPanel_draw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPanel_rec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCountermain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +77,14 @@
     "애플리케이션.MapTest.executor": "Run",
     "애플리케이션.MouseEventTest.executor": "Run",
     "애플리케이션.MyArrayAlgTest.executor": "Run",
+    "애플리케이션.MyCountermain.executor": "Run",
     "애플리케이션.MyFrame.executor": "Run",
     "애플리케이션.MyFrameTest5.executor": "Run",
     "애플리케이션.PriorityQueueTest.executor": "Run",
     "애플리케이션.Puzzle.executor": "Run",
     "애플리케이션.QueueTest.executor": "Run",
     "애플리케이션.RockPaperScissor.executor": "Run",
+    "애플리케이션.Scribble.executor": "Run",
     "애플리케이션.Search.executor": "Run",
     "애플리케이션.SetTest1.executor": "Run",
     "애플리케이션.SimplePairTest.executor": "Run",
@@ -140,7 +136,7 @@
       <workItem from="1717498801839" duration="74000" />
       <workItem from="1717508745568" duration="2416000" />
       <workItem from="1717513576187" duration="2811000" />
-      <workItem from="1717566688384" duration="3456000" />
+      <workItem from="1717566688384" duration="4705000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <option name="closed" value="true" />
@@ -350,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717567411289</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="first">
+      <option name="closed" value="true" />
+      <created>1717570453653</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717570453653</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
