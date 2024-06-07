@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0d62cb3-8b33-4644-ad99-d744b460f60a" name="변경" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/MyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCountermain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ActionEventExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +61,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/leech/IdeaProjects/codingtest_may/src/Main.java",
-    "project.structure.last.edited": "모듈",
+    "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ActionEventExample.executor": "Run",
     "애플리케이션.ActionEventTest1.executor": "Run",
     "애플리케이션.ChangeBackground.executor": "Run",
     "애플리케이션.FindDupplication.executor": "Run",
@@ -136,7 +136,11 @@
       <workItem from="1717498801839" duration="74000" />
       <workItem from="1717508745568" duration="2416000" />
       <workItem from="1717513576187" duration="2811000" />
-      <workItem from="1717566688384" duration="4705000" />
+      <workItem from="1717566688384" duration="5417000" />
+      <workItem from="1717580080506" duration="105000" />
+      <workItem from="1717585382760" duration="2000" />
+      <workItem from="1717679573708" duration="436000" />
+      <workItem from="1717765937377" duration="1904000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <option name="closed" value="true" />
@@ -354,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717570453653</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="first">
+      <option name="closed" value="true" />
+      <created>1717571726099</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717571726099</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
